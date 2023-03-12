@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nyelvVizsga", "nyelvVizsga\nyelvVizsga.csproj", "{8DF6D1C5-20F4-4BAF-A689-EDA0C9BF777F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF6D1C5-20F4-4BAF-A689-EDA0C9BF777F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF6D1C5-20F4-4BAF-A689-EDA0C9BF777F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF6D1C5-20F4-4BAF-A689-EDA0C9BF777F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF6D1C5-20F4-4BAF-A689-EDA0C9BF777F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E1C249-0C82-42F8-8329-A81143845B89}
+	EndGlobalSection
+EndGlobal

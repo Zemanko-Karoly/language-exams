@@ -1,0 +1,10 @@
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\bin\Debug\nyelvVizsga.exe.config
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\bin\Debug\nyelvVizsga.exe
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\bin\Debug\nyelvVizsga.pdb
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\obj\Debug\nyelvVizsga.csproj.AssemblyReference.cache
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\obj\Debug\nyelvVizsga.Form1.resources
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\obj\Debug\nyelvVizsga.Properties.Resources.resources
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\obj\Debug\nyelvVizsga.csproj.GenerateResource.cache
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\obj\Debug\nyelvVizsga.csproj.CoreCompileInputs.cache
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\obj\Debug\nyelvVizsga.exe
+C:\Users\barba\source\repos\nyelvVizsga\nyelvVizsga\obj\Debug\nyelvVizsga.pdb
